@@ -1,0 +1,24 @@
+
+
+    <style type="text/css">
+        .row{
+            background-color: blue
+        }
+        body{
+            background-color:cornflowerblue
+        }
+    </style>
+<h1>Login</h1>
+<div data-ng-bind="$ctrl.loginTitle"></div>
+<div class="row">
+<form class="form-control">
+  <div class="form-group"></div>
+  <label class="col-md-6">{{'USER_NAME' | translate}}</label>
+  <input class="form-control" name="username" type="text">
+  <label class="col-md-6">Password</label>
+  <input class="form-control" name="password" type="password">
+  <div class="col-md-12 text-center">
+    <button class="btn btn-primary btn-lg btn-block" translate="LOGIN"></button>
+  </div>
+</form>
+</div>

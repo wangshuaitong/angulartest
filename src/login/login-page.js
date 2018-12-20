@@ -1,4 +1,4 @@
-import template from './home-page.html';
+import template from './login-page.html';
 
 const name = 'loginPage';  // <login-page></login-page>
 const bindings = {};
