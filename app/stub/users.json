@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Superman",
+    "location": "Atfjow Gwofe",
+    "age": 38,
+    "user":"admin"
+  },
+  {
+    "name": "Tobias",
+    "location": "Atfjow Gwofe",
+    "age": 38,
+    "user":"admin"
+  },
+  {
+    "name": "Jeff",
+    "location": "Atfjow Gwofe",
+    "age": 38,
+    "user":"admin"
+  },
+  {
+    "name": "Brian",
+    "location": "Atfjow Gwofe",
+    "age": 38,
+    "user":"admin"
+  },
+  {
+    "name": "Igor",
+    "location": "Atfjow Gwofe",
+    "age": 38,
+    "user":"admin"
+  },
+  {
+    "name": "Brad",
+    "location": "Atfjow Gwofe",
+    "age": 38,
+    "user":"admin"
+  },
+  {
+    "name": "James",
+    "location": "Atfjow Gwofe",
+    "age": 38,
+    "user":"admin"
+  },
+  {
+    "name": "Batman",
+    "location": "Wayne Manor",
+    "age": 38,
+    "user":"admin"
+  }
+]

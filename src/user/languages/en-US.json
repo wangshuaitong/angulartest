@@ -1,4 +1,5 @@
 {
-  "LOGIN" : "Login",
+  "INFORMATION":"people information",
+  "USER" : "User",
   "USER_NAME" : "User Name"
 }

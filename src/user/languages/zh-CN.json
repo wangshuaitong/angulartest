@@ -1,4 +1,6 @@
 {
-  "LOGIN" : "登录",
-  "USER_NAME" : "用户名"
+  "INFORMATION":"人员信息管理",
+  "USER":"用户",
+  "USER_NAME":"用户名",
+  "ERROT_500":"服务端报错，请联系管理员解决..."
 }
