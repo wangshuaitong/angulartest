@@ -11,12 +11,10 @@ const controller = function(userService,filterFilter) {
   this.users = [];
   this.allUsers = [];
   this.nameFilter = 'work';
-
   if(location.search.substr(15,5) == "11111"){
     this.role = true;
   }
   userService.fetch().then(resp => {
-    // log(resp);
     log(this);
     this.users = resp.data;
     this.allUsers = resp.data;
@@ -30,6 +28,8 @@ const controller = function(userService,filterFilter) {
   this.filterUserName = function(){
     this.users = filterFilter(this.allUsers, this.nameFilter);
   };
+
+
 };
 
 export default {
